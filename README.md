@@ -1,3 +1,7 @@
+<div align="center">
+<video style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://v1.pinimg.com/videos/iht/hls/81/a6/92/81a692bfe4d247d8440ffd3a09692810_720w.m3u8" width='800'>
+</div>
+
 <h1 align="center">Hi 👋, I'm Mohit Singh Bohra</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
